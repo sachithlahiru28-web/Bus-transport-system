@@ -1,0 +1,14 @@
+NA21857
+aaa - bbb
+6.00am - 7.00am
+aaa, bbb, ccc
+50
+no
+/
+PA1234
+colombo - elpitiya
+7.50am - 10.30am
+aluthgama, bentara, nawalapitiya, dehiwala
+100
+no
+/
